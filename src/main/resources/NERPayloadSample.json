@@ -1,0 +1,24 @@
+{
+  "session": {
+    "new": true
+  },
+  "message": {
+    "text": "<PAYLOAD_REPLACE>",
+    "attachments": ""
+  },
+  "from": {
+    "id": "AutomationAnywhere",
+    "userInfo": {
+      "firstName": "",
+      "lastName": "",
+      "email": ""
+    }
+  },
+  "to": {
+    "id": "Kore.ai",
+    "groupInfo": {
+      "id": "",
+      "name": ""
+    }
+  }
+}
